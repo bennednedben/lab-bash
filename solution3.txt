@@ -1,3 +1,5 @@
+props go to Maximilian...but I practice every command...Nr) 10 and 11 don't work well...
+
 1) Using the echo command print in console "Hello World". Here is some info about echo command 
 $ echo 'Hello World'
 
@@ -40,7 +42,7 @@ $ tail -3 sed.txt
 
 10) Add Homo homini lupus. at the end of sed.txt file in the lorem-copy folder.
 $ 'nano sed.txt'
-
+??? Don't know how to execute the window???
 
 11) Print the last 3 rows in sed.txt file from lorem-copy folder. You should see Homo homini lupus..
 $ tail -3 sed.txt
@@ -68,4 +70,4 @@ $ cat sed.txt | wc
 
 17) Count the files which start with lorem in all directories.
 $ git ls-files "./*.txt" | wc -l
-3
+
